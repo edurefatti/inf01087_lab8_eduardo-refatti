@@ -1,0 +1,7 @@
+1. Explique o que é recursão em Computação.
+
+2. Explique o conceito de recursão em Computação para um estudante do primeiro semestre de Ciência da Computação. Utilize linguagem simples, apresente uma definição, um exemplo em C e liste vantagens e desvantagens.
+
+3. Crie um programa em C que leia um número inteiro e informe se ele é par ou ímpar.
+
+4. Crie um programa em C que leia um número inteiro e informe se ele é par ou ímpar. O código deve conter comentários explicando as partes principais, apresentar uma explicação adequada para um estudante iniciante em programação, incluir exemplos de entrada e saída e realizar tratamento de erros para entradas inválidas.
